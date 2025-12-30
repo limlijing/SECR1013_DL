@@ -1,4 +1,7 @@
 ## DIGITAL LOGIC 📟
+<br>
+
+<img src="https://media.giphy.com/media/l41YcLtmnhYyULkys/giphy.gif" width="200"/>
 Digital logic is the foundation of computing, using Boolean algebra to design electronic circuits with logic gates that perform operations, controlling current flow in devices like computers, smartphones, and microprocessors to process information through combinational logic gates and sequential circuits.Asynchrounous and synchrounous help us know what actually that used in our daily life like lift, vending machine,calculator and more.  
 
 ## Lab 1
