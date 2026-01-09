@@ -11,3 +11,7 @@ In Lab 1, I learned how to implement basic logic gates on a breadboard by using 
 ## Lab 2
 In Lab 2, I learned how to download and use the Deeds Simulator to design and simulate digital logic circuits. Deeds allows logic circuits and timing diagrams to be created and tested without manually drawing them on paper. By simply adjusting the input bits during simulation, the output can be observed automatically in real time. This tool greatly improves efficiency and reduces human error when analyzing circuit behavior. However, one limitation of Deeds is that it does not explicitly display the “don’t care” condition as a special symbol. Instead, don’t care inputs may appear as either 0 or 1. Since these conditions are logically impossible or irrelevant, they can be ignored during analysis. When constructing Karnaugh maps, the don’t care terms are still included to get a more simplified Boolean expression. Overall, this lab strengthened my understanding of logic simplification and demonstrated how simulation tools support digital circuit design.
 [Lab 2 pdf](https://github.com/limlijing/SECR1013_DL/blob/main/Lab%202.pdf)
+
+## Lab 3
+In Lab 3,I learned how to implement asynchrounous and synchrounous counter by using logic gates on a breadboard with specific Integrated Circuits (ICs).After testing, I realised this is a saturated counter with counting up and down.
+[Lab 3 pdf](https://github.com/limlijing/SECR1013_DL/blob/main/ba53b928810143a8a45fd536363bf4fb.pdf)
